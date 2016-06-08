@@ -1,5 +1,5 @@
-#-*- mode: mandoku-view; -*-
-#+DATE: 2015-08-30 20:52:49.435464
+# -*- mode: mandoku-view; -*-
+#+DATE: 2016-06-08 16:34
 #+TITLE: 俱舍論頌疏記
 #+PROPERTY: CBETA_ID X53n0841
 #+PROPERTY: ID KR6l0041
